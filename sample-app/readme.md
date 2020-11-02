@@ -4,7 +4,8 @@
 
 [Install iOS app](https://yun.ir/836dbe)
 
-> iOS install link: 
+
+**Alternative iOS install link:**
 ```
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/chabok-io/chabok-assets/master/sample-app/chabok_sample.plist
 ```
